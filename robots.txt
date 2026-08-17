@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-7hpr6m.royaltoto2er.site/sitemap.xml
